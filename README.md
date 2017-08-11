@@ -20,6 +20,8 @@ in the display. I have kept that convention.
 
 Included in the repository are sample stored 2D and 3D point data clouds.
 
+Additional information is available on my blog: https://www.mcgurrin.info/robots/?p=482
+
 ## Authors ##
 
 The original 2D display software was developed by Nicolas "Xevel" Saugnier
